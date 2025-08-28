@@ -1,6 +1,6 @@
 # Vendor Performance Analysis - Retail Inventory & Sales
 
-Objective: Analyzed Vendor Efficiency and profitability to support strategic purchasing and inventory decisions using SQL & Python.
+Analyzed Vendor Efficiency and profitability to support strategic purchasing and inventory decisions using SQL & Python.
 
 ## Dataset
 [Click here to access the dataset](https://1drv.ms/f/c/57a2549804b14733/EtzagdmvUrdDsvWz-afMuzMBDzYIpOhCuXxm0X1zcgjKHQ?e=vLLpXt)

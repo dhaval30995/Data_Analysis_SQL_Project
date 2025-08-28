@@ -1,9 +1,0 @@
-2025-08-22 20:33:30,458 - INFO - Ingestingbegin_inventory.csv in db
-2025-08-22 20:33:33,153 - INFO - Ingestingend_inventory.csv in db
-2025-08-22 20:33:40,380 - INFO - Ingestingpurchases.csv in db
-2025-08-22 20:34:14,211 - INFO - Ingestingpurchase_prices.csv in db
-2025-08-22 20:34:35,367 - INFO - Ingestingsales.csv in db
-2025-08-22 20:39:06,955 - INFO - Ingestingvendor_invoice.csv in db
-2025-08-22 20:39:07,169 - INFO - -----------Ingestion Complete----------
-2025-08-22 20:39:07,170 - INFO - 
-Total Time Taken: 5.618308170636495 minutes
